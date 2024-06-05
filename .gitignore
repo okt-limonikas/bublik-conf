@@ -1,0 +1,12 @@
+### Python ###
+# Byte-compiled / optimized
+__pycache__/
+*.py[co]
+
+# Git
+.gitconfig
+
+# IDE
+.vscode/
+.idea/
+.reviewboardrc
