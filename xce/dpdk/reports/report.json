@@ -1,5 +1,5 @@
 {
-    "id": 3,
+    "id": 1,
     "name": "dpdk-perf",
     "description": "Performance report config for dpdk-ethdev-ts",
     "version": "v1",
