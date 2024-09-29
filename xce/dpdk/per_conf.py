@@ -5,10 +5,6 @@
 #
 PROJECT = 'ts-factory'
 
-# Default UI version.
-#
-UI_VERSION = 2
-
 # List of emails to notify about importruns failures.
 #
 EMAIL_PROJECT_WATCHERS = []
